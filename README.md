@@ -6,7 +6,7 @@ Performs the AWS WAF "press and hold" gesture for you. Free, no solver API.
 
 ## Install
 
-[Click here to install in ScriptCat](https://raw.githubusercontent.com/chirag127/userscripts/main/scripts/awswaf-auto-bypass/awswaf-auto-bypass.user.js)
+[Click here to install in ScriptCat](https://raw.githubusercontent.com/chirag127/awswaf-auto-bypass-userscript/main/awswaf-auto-bypass.user.js)
 
 ## How it works
 

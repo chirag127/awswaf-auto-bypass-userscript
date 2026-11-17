@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         AWS WAF Captcha Auto-Bypass
-// @namespace    https://github.com/chirag127/userscripts
+// @namespace    https://github.com/chirag127/awswaf-auto-bypass-userscript
 // @version      1.0.0
 // @description  Performs the AWS WAF "press and hold" gesture inside the captcha frame with pointer events, retrying until the token appears. ScriptCat switch, on by default, no solver API.
 // @author       chirag127
@@ -14,10 +14,10 @@
 // @grant        GM_log
 // @grant        CAT_registerMenuInput
 // @license      MIT
-// @homepageURL  https://github.com/chirag127/userscripts/tree/main/scripts/awswaf-auto-bypass
-// @supportURL   https://github.com/chirag127/userscripts/issues
-// @updateURL    https://raw.githubusercontent.com/chirag127/userscripts/main/scripts/awswaf-auto-bypass/awswaf-auto-bypass.user.js
-// @downloadURL  https://raw.githubusercontent.com/chirag127/userscripts/main/scripts/awswaf-auto-bypass/awswaf-auto-bypass.user.js
+// @homepageURL  https://github.com/chirag127/awswaf-auto-bypass-userscript
+// @supportURL   https://github.com/chirag127/awswaf-auto-bypass-userscript/issues
+// @updateURL    https://raw.githubusercontent.com/chirag127/awswaf-auto-bypass-userscript/main/awswaf-auto-bypass.user.js
+// @downloadURL  https://raw.githubusercontent.com/chirag127/awswaf-auto-bypass-userscript/main/awswaf-auto-bypass.user.js
 // ==/UserScript==
 
 (() => {
